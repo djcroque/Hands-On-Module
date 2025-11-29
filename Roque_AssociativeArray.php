@@ -4,7 +4,7 @@
 
 <?php
 $title = 'Associative Array';
-$name = 'Clark';
+$name = '';
 $products =[
     'Christmas Tree' => 1999.99,
     'Advent Candle' => 1499.99,
@@ -49,5 +49,6 @@ $products =[
 }
 ?>
 </table>
+
 
 <?php include 'footer.php'; ?>
