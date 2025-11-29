@@ -6,7 +6,7 @@ html, body {
 
 body {
   font-family: "Raleway", sans-serif;
-  background-color: #850825;
+  background-color: rgb(67, 4, 67);
   color: #fbccbf;
   margin: 0px;
   background-image: url("../img/candy.png");
@@ -37,7 +37,7 @@ p {
 }
 
 table {
-  background-color: #850825;
+  background-color: #4b0885;
   margin: 10px;
   padding: 5px;
   border: 1px solid #fbccbf;
@@ -50,8 +50,8 @@ th {
   font-size: 0.75em;
   letter-spacing: 0.2em;
   padding: 5px 10px;
-  background-color: #fbccbf;
-  color: #850825;
+  background-color: #e5cd17;
+  color: #4b0885;
 }
   
 td {
@@ -68,7 +68,7 @@ a {
 
 nav {
   padding: 0.5em;
-  background-color: #730720;
+  background-color: #50074c;
 }
 
 nav a {
@@ -81,7 +81,7 @@ nav a:hover {
  
 .button {
   background-color: #fbccbf;
-  color: #850825;
+  color: #140885;
   border-color: #fbccbf;
   border-radius: 300px;
   -webkit-transition: .3s background-color linear;
@@ -106,7 +106,7 @@ nav a:hover {
   -moz-transition: .1s background-color linear;
   -o-transition: .1s background-color linear;
   transition: .1s background-color linear;
-  color: #850825;
+  color: #490885;
 }
   
 .offer {
@@ -114,7 +114,7 @@ nav a:hover {
 }
 
 footer {
-  background-color: #730720;
+  background-color: #420773;
   padding: 10px;
   width: 100%;
   position: fixed;
