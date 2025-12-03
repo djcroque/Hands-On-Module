@@ -18,4 +18,5 @@
             <a href="Roque_AssociativeArray.php">Associative Array</a>
             <a href="Roque_LogicalOperator.php">Logical Operator</a>
             <a href="Roque_TypeJuggling.php">Type Juggling</a>
+            <a href="functions.php">Functions</a>
         </nav>
